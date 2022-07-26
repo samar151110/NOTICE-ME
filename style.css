@@ -1,0 +1,31 @@
+body{
+    background-image:url("background.jpg") ;
+}
+
+.heading{
+    background-color: rgb(222, 98, 49);
+    font-size: 15px;
+    box-shadow: 5px 5px 5px black;
+    width: 100%;
+}
+
+.Note{
+    font-size: 10px;
+    color: blue;
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    background-color: rgb(7, 83, 169);
+    color: white;
+    text-align: center;
+    line-height: 5;
+    bottom: 0;
+}
+
+canvas{
+    border: 5px dashed black;
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px grey;
+}
